@@ -1,0 +1,32 @@
+
+.header-link{
+    text-decoration: none;
+    color: aliceblue;
+    padding: 10px 50px;
+    display: inline-block;
+    width: 100%;
+}
+.header-link:hover{
+    color: aliceblue;
+    opacity: 60%;
+}
+.header-link-active{
+    text-decoration: none;
+    color: blue;
+    padding: 10px 50px;
+    display: inline-block;
+    background-color: aliceblue;
+    width: 100%;
+}
+
+.headerr{
+    background-color: blue;
+    padding-top: 40px;
+    min-height: 100vh !important;
+    height: 100% !important;
+
+    /* height: fit-content !important;
+    height: max-content !important;
+    height: min-content !important; */
+
+}
